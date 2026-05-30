@@ -1,4 +1,4 @@
-# NOW_ROVER
+# ESPNOW_ROVER
 
 ## Simple Overview
 In simple language, here is exactly what this project does: Reads your hand movements using an accelerometer → Packages that data into a small digital packet → Blasts it wirelessly to the rover using the ESP-NOW protocol (no router required) → The rover instantly catches the packet → Calculates the exact tilt angle of your hand → Translates the forward/backward tilt into proportional motor speeds → Translates the left/right tilt into a servo steering angle → Drives the rover seamlessly!
